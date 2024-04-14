@@ -1,0 +1,28 @@
+body{
+    margin-left: 40%;
+    background-color: #f3f3f3;
+    font-family: arial;
+}
+.container{
+    width: 400px;
+    background-color: #fff;
+    padding: 30px;
+}
+.container-box{
+    padding-bottom: 30px;
+    width: 50%;
+}
+input{
+    margin-bottom: 20px;
+    padding: 0px 10 px;
+    width: 150px;
+    height: 20px;
+    font-size: 15px;
+}
+button{
+    width: 80px;
+    height: 25px;
+    font-size: 15px;
+}
+
+
